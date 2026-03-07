@@ -25,8 +25,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kunalsec&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsec&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kunalsec)
 
 <!-- Snake Game Repo View -->
 
@@ -34,6 +32,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<!-- Signature View -->
 <div align="center">
   <p>
 Thanks for stopping by! Feel free to connect with me and explore my projects. Let's build something amazing together! 🚀
