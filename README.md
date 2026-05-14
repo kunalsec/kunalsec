@@ -135,3 +135,11 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kunalsec&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
+
+<br>
+
+<details> <summary align="center">📈 GitHub Metrics</summary> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalsec&theme=radical" width="100%"/> <br><br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kunalsec&theme=radical" width="49%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalsec&theme=radical" width="49%"/> </div> </details><!-- Proudly created with love and code 💙 -->
+
+<br>
+<div align="center"> <img src="profilee.png" width="300px" alt="Signature"> </div><div align="center"> <p> <strong>💡 Open to collaborations on web development and cybersecurity projects!</strong><br> Thanks for stopping by! Feel free to connect with me and explore my projects. Let's build something amazing together! 🚀 </p>
+  <br>
