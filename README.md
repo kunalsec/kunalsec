@@ -125,16 +125,7 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalsec&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&layout=compact&langs_count=8" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalsec&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+<details> <summary align="center">📈 GitHub Trophy</summary> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kunalsec&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/></div>
 
 <br>
 
@@ -142,4 +133,3 @@
 
 <br>
 <div align="center"> <img src="profilee.png" width="300px" alt="Signature"> </div><div align="center"> <p> <strong>💡 Open to collaborations on web development and cybersecurity projects!</strong><br> Thanks for stopping by! Feel free to connect with me and explore my projects. Let's build something amazing together! 🚀 </p>
-  <br>
