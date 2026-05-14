@@ -125,7 +125,7 @@
 </div>
 
 <br>
-<details> <summary align="center">📈 GitHub Trophy</summary> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kunalsec&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/></div>
+<details> <summary align="center">📈 GitHub Trophy</summary> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kunalsec&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/></div> </details>
 
 <br>
 
