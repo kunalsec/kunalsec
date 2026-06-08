@@ -3,7 +3,6 @@
   Hey there, I'm Kunal
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00F7F7&center=true&vCenter=true&width=500&lines=Web+Developer+%7C+Cybersecurity+Enthusiast;Building+Secure+Web+Experiences;React+%26+Framer+Motion+Explorer;System+Design+Learner" alt="Typing SVG" />
