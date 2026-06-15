@@ -122,7 +122,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsec&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7F7&sideLabels=FFFFFF&dates=FFFFFF" />
 </div>
-
 <br>
 <details> <summary align="center">📈 GitHub Trophy</summary> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kunalsec&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/></div> </details>
 
