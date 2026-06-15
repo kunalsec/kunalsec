@@ -16,11 +16,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kunalsec&style=for-the-badge&color=00F7F7&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/kunalsec?style=for-the-badge&logo=github&color=0D1117&labelColor=00F7F7&logoColor=0D1117" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/kunalsec?style=for-the-badge&logo=github&color=0D1117&labelColor=00F7F7&logoColor=0D1117" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/followers/kunalsec?style=for-the-badge&logo=github&color=00F7F7&labelColor=333333&logoColor=0D1117" alt="GitHub Followers"/> 
+  <img src="https://img.shields.io/github/stars/kunalsec?style=for-the-badge&logo=github&color=00F7F7&labelColor=333333&logoColor=white" alt="GitHub Stars"/>
 </p>
-
----
 
 ## 💫 About Me
 
